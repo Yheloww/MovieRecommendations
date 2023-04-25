@@ -5,10 +5,15 @@
             'https://api.themoviedb.org/3/movie/550?api_key=0f19c042aac4b96dd9c50c70ff491332'
         );
         const data = await res.json();
+        console.log(data);
         if (res.ok){
             return {
                 props: { popular: data.results }
             };
         }
     }
+</script>
+
+<script>
+
 </script>
