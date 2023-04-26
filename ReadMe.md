@@ -73,11 +73,11 @@
     then install the different dependecies mentionned in the requirement.txt
     </p>
 
-<h2 id="Results-and-discussion"> :microscope: Results and discussions</h2>
-    <h3 id="Optimization"> :ledger: Search function</h3>
+<h2 id="Results-and-discussion"> :pushpin: Results and discussions</h2>
+    <h3 id="Optimization"> :mag: Search function</h3>
             <p align="justify"> function that search the csv file and return how many films we want that have similarities to the title we entered. The function can be improved by using for exemple the overview of the movies to find movies with similar overviews
             </p>
-    <h3 id="forecasting"> :chart_with_upwards_trend: Recommendation based on other users</h3>
+    <h3 id="forecasting"> :heart: Recommendation based on other users</h3>
             <p align="justify"> For this part i have used the cosine similarities to find movies that others users like me have liked. The idea behind recommendation based on others is that you have to find people with specific enough taste to be sure that it is a great movie to recommend. So we have to get rid of the movies that everybody have liked to do that. During this part I also had to merge the ratings.csv avec le moviemetadata.csv so I had to find the columns that matches togethers. 
             </p>
     <h3 id="together"> :key: Keyword extraction</h3>
