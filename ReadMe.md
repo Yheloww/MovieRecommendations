@@ -6,7 +6,6 @@
 
 <p align="center"> 
   <img src="./assets/movies.png" alt="Sample signal" width="25%" height="25%">
-  <iframe src="https://giphy.com/embed/XzqEFZ06NSFgXaut2g" width="480" height="167" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wip-work-in-progress-XzqEFZ06NSFgXaut2g">via GIPHY</a></p>
 </p>
 
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
