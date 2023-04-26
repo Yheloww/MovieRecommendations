@@ -6,6 +6,7 @@
 
 <p align="center"> 
   <img src="./assets/movies.png" alt="Sample signal" width="25%" height="25%">
+  <iframe src="https://giphy.com/embed/XzqEFZ06NSFgXaut2g" width="480" height="167" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wip-work-in-progress-XzqEFZ06NSFgXaut2g">via GIPHY</a></p>
 </p>
 
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
@@ -16,15 +17,15 @@
     <li><a href="#Description"> ➤ Description</a></li>
     <li><a href="#Objectives"> ➤ Objectives</a></li>
     <ul>
-        <li><a href="#Challenges"> Challenges</a></li>
+        <li><a href="#Strengths"> Challenges</a></li>
         <li><a href="#Limitations">Limitations</a></li>
         <li><a href="#Further developments">Further developments</a></li>
       </ul>
     <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
     <li><a href="#installation"> ➤ Installation</a></li>
-    <li><a href="#usage"> ➤ Usage</a></li>
+    <!-- <li><a href="#usage"> ➤ Usage</a></li> -->
     <li><a href="#Results-and-discussion"> ➤ Results and Discussion</a></li>
-    <li><a href="#Visuals"> ➤ Visuals</a></li>
+    <!-- <li><a href="#Visuals"> ➤ Visuals</a></li> -->
     <!--<li><a href="#experiments">Experiments</a></li>-->
     <li><a href="#Timeline"> ➤ Timeline</a></li>
     <li><a href="#contributors"> ➤ Contributors</a></li>
@@ -41,7 +42,7 @@
      :radio_button: Explain which NLP methods can be used to compute similarities between texts (i.e. TD-IDF, cosine-similarity, etc.) and how they work in the big picture.</br>
      :radio_button: (Optional) Deploy your solution locally or in Render using Flask or Streamlit. </br>
     </p>
-    <h3 id="Strenghs"> Strenghts</h3>
+    <h3 id="Strengths"> Strengths</h3>
         <p align="justify"> 
          :radio_button: recommendation system based on other users ratings</br>
          :radio_button: keyword extraction using spacy</br>
